@@ -16,12 +16,12 @@ In this repository, you will find categories for various product areas. Feel fre
 | 🗣️ [Discussions](https://github.com/orgs/community/discussions/categories/discussions)  	| [GitHub Discussions](https://docs.github.com/en/discussions) 	|
 | 🌐 [Feed](https://github.com/orgs/community/discussions/categories/feed)  	| [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/) 	|
 | 🎒 [GitHub Education](https://github.com/orgs/community/discussions/categories/github-education)  	| [GitHub Education](https://education.github.com/) 	|
-| 🐙 [Issues](https://github.com/orgs/community/discussions/categories/issues) 	| [GitHub Issues](https://github.com/features/issues) 	|
 | ⭐ [Lists](https://github.com/orgs/community/discussions/categories/lists) 	| [GitHub Lists](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars#organizing-starred-repositories-with-lists) (Public Beta) 	|
 | 📱 [Mobile](https://github.com/orgs/community/discussions/categories/mobile) 	| [GitHub Mobile](https://github.com/mobile) 	|
 | 📦 [Packages](https://github.com/orgs/community/discussions/categories/packages) 	| [GitHub Packages](https://github.com/features/packages) |
 | 🗒️ [Pages](https://github.com/orgs/community/discussions/categories/pages)    | [GitHub Pages](https://docs.github.com/en/pages)  |
 | 🖼️ [Profile](https://github.com/orgs/community/discussions/categories/profile)  	| [GitHub Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 	|
+| 🐙 [Projects and Issues](https://github.com/orgs/community/discussions/categories/projects-and-issues) 	| [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects) / [GitHub Issues](https://github.com/features/issues) 	|
 | ✔️ [Pull Requests](https://github.com/orgs/community/discussions/categories/pull-requests) 	| [GitHub Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) 	|
 | 🗳️ [Repositories](https://github.com/orgs/community/discussions/categories/repositories)  	| [GitHub Repositories](https://docs.github.com/en/repositories) 	|
 | 💖 [Sponsors](https://github.com/orgs/community/discussions/categories/sponsors) 	| [GitHub Sponsors](https://github.com/sponsors) 	|
