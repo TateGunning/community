@@ -1,4 +1,4 @@
-labels: [Copilot]
+labels: [Models]
 body:
 - type: dropdown
   attributes:
